@@ -23,7 +23,7 @@ Histogram → Age distribution
 
 Bar Plot → Average age by gender
 
-##Visuals
+## Visuals
 ### Gender Distribution
 
 ![image alt](https://github.com/Srinidhi1009/skillcraft-tech_Data-science_task1/blob/37b29dd8ce35b172f0cc0bdbb24682ded9e8e119/Screenshot%202025-09-16%20110353.png)
