@@ -17,15 +17,13 @@ It visualizes both **categorical** and **continuous** variables using Python lib
 - Seaborn  
 
 ## Visualizations
-![image alt]
-
 ### Gender Distribution
-![Gender Distribution](gender_distribution.png)
+![image alt]https://github.com/Srinidhi1009/skillcraft-tech_Data-science_task1/blob/3694d7f3813367244e8b1aec517a6b467e2c9ed7/Screenshot%202025-09-16%20110353.png
+
 ### Age Distribution
-![Age Distribution](age_distribution.png)
 
 ### Average Age by Gender
-![Average Age by Gender](avg_age_by_gender.png)
+
 
 ## How to Run it
 1. Clone this repository  
