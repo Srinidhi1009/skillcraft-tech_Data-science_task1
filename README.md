@@ -18,8 +18,9 @@ It visualizes both **categorical** and **continuous** variables using Python lib
 
 ## Visualizations
 ### Gender Distribution
-![image alt](<img width="751" height="585" alt="image" src="https://github.com/user-attachments/assets/eefe68c6-05f7-4875-a860-a6965718ae11" />
-)
+
+![image alt](https://github.com/Srinidhi1009/skillcraft-tech_Data-science_task1/blob/37b29dd8ce35b172f0cc0bdbb24682ded9e8e119/Screenshot%202025-09-16%20110353.png)
+
 ### Age Distribution
 
 ### Average Age by Gender
