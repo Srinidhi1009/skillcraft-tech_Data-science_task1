@@ -23,6 +23,8 @@ It visualizes both **categorical** and **continuous** variables using Python lib
 
 ### Age Distribution
 
+![image alt](https://github.com/Srinidhi1009/skillcraft-tech_Data-science_task1/blob/f6f7645fd3ba46a97efebb50683f5d235194fde4/Screenshot%202025-09-16%20110503.png)
+
 ### Average Age by Gender
 
 
